@@ -1,8 +1,8 @@
-# Trabajo-final-evaluacion
+# Trabajo final evaluacion
   Realizado por Abtaham González Mellado
 
   ## Introducción
-  En esta prueba final he tenido que realizar **dieciséis distintos casos para trabajar con la propiedad Flexbox**.
+  En esta prueba final he tenido que realizar **16 distintos casos para trabajar con la propiedad Flexbox**.
   
   Los casos son los siguientes:
   
@@ -23,5 +23,10 @@
   
   ### Caso 6:
   Usamos 3 etiquetas DIV y se aplica las propiedades *display: flex;* y *align-items: flex-start;* para alinearlos ***horizontalmente*** en el comienzo del contenedor.
+ 
+  ### Caso 7:
+  Volvemos a usar 3 etiquetas DIV en las cuales utilizamos la propiedad *display: flex;* y *align-items: stretch;*, con esta propiedad conseguimos alinearlos ***horizontalmente***, los hijos se estiran verticalmente en proporción a la altura del contenedor.
   
+  ### Caso 8:
+  Seguimos usando 3 etiquetas DIV en donde usamos la propiedad *display: flex;* y *align-items: flex-end;* para alinearlos ***horizontalmente*** en el final del contenedor.
   
