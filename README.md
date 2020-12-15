@@ -13,20 +13,31 @@
   Aqui se ha utilizado 3 etiquetas DIV y se aplican las propriedades *display: flex;* y *justify-content: flex-end;* para alinearlos ***horizontalmente***.
   
   ### Caso 3:
-  En esta situación se hace uso de 3 etiquetas DIV y aplicamos las propiedades *display: flex;* y *justify-content: space-around;* para alinearlos ***horizontalmente***   a lo largo del contenedor, con el mismo espacio a su alrededor.
+  En esta situación se hace uso de 3 etiquetas DIV y aplicamos las propiedades *display: flex;* y *justify-content: space-around;* para alinearlos ***horizontalmente   a lo largo del contenedor***, con el mismo espacio a su alrededor.
   
   ### Caso 4:
-  Hacemos uso de 3 etiquetas DIV en donde aplicaremos las propiedades *display: flex;* y *justify-content: space-between* que servira para alinearlos                ***horizontalmente*** a lo largo del contenedor, pero a diferencia del anterior, los items se distribuyen uniformemente.
+  Hacemos uso de 3 etiquetas DIV en donde aplicaremos las propiedades *display: flex;* y *justify-content: space-between* que servira para alinearlos                ***horizontalmente a lo largo del contenedor***, pero a diferencia del anterior, los items se distribuyen uniformemente.
   
   ### Caso 5:
-  Usamos 3 etiquetas DIV en donde aplicamos las propiedades *display: flex;* y *align-items: center;* para alinearlos ***horizontalmente*** en el centro del contenedor.
+  Usamos 3 etiquetas DIV en donde aplicamos las propiedades *display: flex;* y *align-items: center;* para alinearlos ***horizontalmente en el centro del contenedor***.
   
   ### Caso 6:
-  Usamos 3 etiquetas DIV y se aplica las propiedades *display: flex;* y *align-items: flex-start;* para alinearlos ***horizontalmente*** en el comienzo del contenedor.
+  Usamos 3 etiquetas DIV y se aplica las propiedades *display: flex;* y *align-items: flex-start;* para alinearlos ***horizontalmente en el comienzo del contenedor***.
  
   ### Caso 7:
-  Volvemos a usar 3 etiquetas DIV en las cuales utilizamos la propiedad *display: flex;* y *align-items: stretch;*, con esta propiedad conseguimos alinearlos ***horizontalmente***, los hijos se estiran verticalmente en proporción a la altura del contenedor.
+  Volvemos a usar 3 etiquetas DIV en las cuales utilizamos las propiedades *display: flex;* y *align-items: stretch;*, con esta propiedad conseguimos alinearlos ***horizontalmente*** y que los hijos se estiren verticalmente en proporción a la altura del contenedor.
   
   ### Caso 8:
-  Seguimos usando 3 etiquetas DIV en donde usamos la propiedad *display: flex;* y *align-items: flex-end;* para alinearlos ***horizontalmente*** en el final del contenedor.
+  Seguimos usando 3 etiquetas DIV en donde usamos las propiedades *display: flex;* y *align-items: flex-end;* para alinearlos ***horizontalmente en el final del contenedor***.
   
+  ### Caso 9:
+  En este caso utilizamos 10 etiquetas DIV y usamos las propiedades *display: flex;*, *align-content: space-around;* y *flex-wrap: wrap;* para alinearlos ***horizontalmente a lo ancho del contenedor, distribuir las líneas a lo largo del eje igualmente espaciados y la ultima propiedad sirve para especificar si los elementos hijos pueden fluir en varias líneas o son obligados a permanecer en una misma linea***.
+  
+  ### Caso 10:
+  Se vuelven a utilizar 10 etiquetas DIV donde usamos las propiedades *display: flex;*, *align-content: space-between;* y *flex-wrap: wrap;* para alinearlos ***horizontalmente a lo ancho del contenedor, distribuir las lineas a lo largo del eje pero en este caso de principio a fin y la ultima propiedad se le da el mismo uso que en el caso anterior***.
+  
+  ### Caso 11:
+  Usamos 10 etiquetas DIV y usamos las propiedades *display: flex;*, *align-content: stretch;* y *flex-wrap: wrap;* (misma utilidad que en los anteriores dos casos) para alinearlos ***horizontalmente a lo ancho del contenedor y los hijos se estiran verticalmente en proporción a la altura del contenedor***.
+  
+  ### Caso 12:
+  Usamos 10 etiquetas DIV donde usamos las propiedades *display: flex;*, *align-content: center;* y *flex-wrap: wrap;* (explicado anteriormente) para alinearlos ***horizontalmente a lo ancho del contenedor y obliga a los hijos a colocarse en el centro del contenedor***.
