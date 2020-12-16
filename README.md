@@ -41,3 +41,15 @@
   
   ### Caso 12:
   Usamos 10 etiquetas DIV donde usamos las propiedades *display: flex;*, *align-content: center;* y *flex-wrap: wrap;* (explicado anteriormente) para alinearlos ***horizontalmente a lo ancho del contenedor y obliga a los hijos a colocarse en el centro del contenedor***.
+  
+  ### Caso 13:
+  Utilizamos 10 etiquetas DIV donde usamos las propiedades *display: flex;*, *align-content: flex-start;* y *flex-wrap: wrap;* para alinearlos ***horizontalmente a lo ancho del contenedor, obligando a los hijos a colocarse al principio del contenedor (la propiedad flex-wrap: wrap; tiene la misma autoridad que en los casos anteriores)***.
+  
+  ### Caso 14:
+  Usamos 10 etiquetas DIV y utilizamos las propiedades *display: flex;*, *align-content: flex-end;* y *flex-wrap: wrap;* para alinearlos ***horizontalmente a lo ancho del contenedor, en el final del mismo (la ultima propiedad exolicada anteriormente)***.
+  
+  ### Caso 15:
+  Usamos 4 etiquetas DIV y utilizamos en el *index.html* dentro de las etiquetas DIV las propiedades *display: flex;* *style="flex-grow: (1,4,1,10);"* y *color: (red,blue,green,yellow);* para alinearlos ***horizontalmente a lo ancho del contenedor con el grosor que hayas puesto en la propiedad flex-grow***.
+  
+  ### Caso 16:
+  En este ultimo caso hacemos uso de 12 etiquetas DIV donde usamos las propiedades *display: flex;* y *flex-wrap: nowwrap;* para alinearlos ***horizontalmente a lo ancho del contenedor y los elementos se reparten en una sola línea***.
